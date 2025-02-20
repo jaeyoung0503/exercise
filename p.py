@@ -1,2 +1,1 @@
 print("exercise")
-print("alien")
