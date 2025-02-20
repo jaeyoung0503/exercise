@@ -1,0 +1,2 @@
+print("exercise")
+print("alien")
